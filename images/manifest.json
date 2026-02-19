@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://yshz2024-eng.github.io/test2/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in yshz2024-eng/test2 project"
+        ]
+    },
+    "items": []
+}
