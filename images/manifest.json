@@ -9,6 +9,168 @@
     },
     "items": [
         {
+            "id": "https://yshz2024-eng.github.io/test2/images/bk302/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bk302"
+                ]
+            },
+            "height": 707,
+            "width": 942,
+            "items": [
+                {
+                    "id": "https://yshz2024-eng.github.io/test2/images/bk302/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://yshz2024-eng.github.io/test2/images/bk302/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://yshz2024-eng.github.io/test2/images/bk302/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 30,
+                                                "height": 23
+                                            },
+                                            {
+                                                "width": 59,
+                                                "height": 45
+                                            },
+                                            {
+                                                "width": 118,
+                                                "height": 89
+                                            },
+                                            {
+                                                "width": 236,
+                                                "height": 177
+                                            },
+                                            {
+                                                "width": 471,
+                                                "height": 354
+                                            },
+                                            {
+                                                "width": 942,
+                                                "height": 707
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 942,
+                                        "id": "https://yshz2024-eng.github.io/test2/images/bk302",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 707
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://yshz2024-eng.github.io/test2/images/bk302/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://yshz2024-eng.github.io/test2/images/csd01/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "csd01"
+                ]
+            },
+            "height": 330,
+            "width": 258,
+            "items": [
+                {
+                    "id": "https://yshz2024-eng.github.io/test2/images/csd01/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://yshz2024-eng.github.io/test2/images/csd01/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://yshz2024-eng.github.io/test2/images/csd01/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 9,
+                                                "height": 11
+                                            },
+                                            {
+                                                "width": 17,
+                                                "height": 21
+                                            },
+                                            {
+                                                "width": 33,
+                                                "height": 42
+                                            },
+                                            {
+                                                "width": 65,
+                                                "height": 83
+                                            },
+                                            {
+                                                "width": 129,
+                                                "height": 165
+                                            },
+                                            {
+                                                "width": 258,
+                                                "height": 330
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 258,
+                                        "id": "https://yshz2024-eng.github.io/test2/images/csd01",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 330
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://yshz2024-eng.github.io/test2/images/csd01/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://yshz2024-eng.github.io/test2/images/bk301/canvas/",
             "type": "Canvas",
             "label": {
@@ -84,6 +246,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://yshz2024-eng.github.io/test2/images/bk301/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://yshz2024-eng.github.io/test2/images/bk303/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bk303"
+                ]
+            },
+            "height": 661,
+            "width": 863,
+            "items": [
+                {
+                    "id": "https://yshz2024-eng.github.io/test2/images/bk303/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://yshz2024-eng.github.io/test2/images/bk303/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://yshz2024-eng.github.io/test2/images/bk303/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 27,
+                                                "height": 21
+                                            },
+                                            {
+                                                "width": 54,
+                                                "height": 42
+                                            },
+                                            {
+                                                "width": 108,
+                                                "height": 83
+                                            },
+                                            {
+                                                "width": 216,
+                                                "height": 166
+                                            },
+                                            {
+                                                "width": 432,
+                                                "height": 331
+                                            },
+                                            {
+                                                "width": 863,
+                                                "height": 661
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 863,
+                                        "id": "https://yshz2024-eng.github.io/test2/images/bk303",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 661
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://yshz2024-eng.github.io/test2/images/bk303/canvas/"
                         }
                     ]
                 }

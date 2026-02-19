@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 9,
+    "height" : 11
+  }, {
+    "width" : 17,
+    "height" : 21
+  }, {
+    "width" : 33,
+    "height" : 42
+  }, {
+    "width" : 65,
+    "height" : 83
+  }, {
+    "width" : 129,
+    "height" : 165
+  }, {
+    "width" : 258,
+    "height" : 330
+  } ],
+  "profile" : "level0",
+  "width" : 258,
+  "id" : "https://yshz2024-eng.github.io/test2/images/csd01",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 330
+}

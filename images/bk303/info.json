@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 27,
+    "height" : 21
+  }, {
+    "width" : 54,
+    "height" : 42
+  }, {
+    "width" : 108,
+    "height" : 83
+  }, {
+    "width" : 216,
+    "height" : 166
+  }, {
+    "width" : 432,
+    "height" : 331
+  }, {
+    "width" : 863,
+    "height" : 661
+  } ],
+  "profile" : "level0",
+  "width" : 863,
+  "id" : "https://yshz2024-eng.github.io/test2/images/bk303",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 661
+}
