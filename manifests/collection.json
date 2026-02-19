@@ -1,0 +1,15 @@
+{
+  "id" : "https://yshz2024-eng.github.io/test2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in yshz2024-eng/test2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://yshz2024-eng.github.io/test2/manifests/manifest2",
+    "label" : {
+      "en" : [ "testmanifest3" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
