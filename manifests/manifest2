@@ -1,0 +1,269 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://yshz2024-eng.github.io/test2/manifests/manifest2",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "testmanifest3" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/6mz561q6gq-mltjlazw/canvas/ubp3lnmw62g-mltl7kdy",
+    "type" : "Canvas",
+    "height" : 579,
+    "width" : 1031,
+    "label" : {
+      "en" : [ "bk301" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://yshz2024-eng.github.io/test2/images/bk301/full/516,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 290,
+      "width" : 516
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/6mz561q6gq-mltjlazw/canvas/ubp3lnmw62g-mltl7kdy/annotation-page/5clvg6y884v-mltl7kdy",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/6mz561q6gq-mltjlazw/annotation/7muv7bm4zj-mltl7kdx",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/6mz561q6gq-mltjlazw/canvas/ubp3lnmw62g-mltl7kdy",
+        "body" : {
+          "id" : "https://yshz2024-eng.github.io/test2/images/bk301/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 579,
+          "width" : 1031,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 33,
+              "height" : 19
+            }, {
+              "width" : 65,
+              "height" : 37
+            }, {
+              "width" : 129,
+              "height" : 73
+            }, {
+              "width" : 258,
+              "height" : 145
+            }, {
+              "width" : 516,
+              "height" : 290
+            }, {
+              "width" : 1031,
+              "height" : 579
+            } ],
+            "profile" : "level0",
+            "width" : 1031,
+            "id" : "https://yshz2024-eng.github.io/test2/images/bk301",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 579
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/6mz561q6gq-mltjlazw/canvas/uhx7q7bwcfq-mltl85ve",
+    "type" : "Canvas",
+    "height" : 707,
+    "width" : 942,
+    "label" : {
+      "en" : [ "bk302" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://yshz2024-eng.github.io/test2/images/bk302/full/471,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 354,
+      "width" : 471
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/6mz561q6gq-mltjlazw/canvas/uhx7q7bwcfq-mltl85ve/annotation-page/4gzqdzve0g6-mltl85ve",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/6mz561q6gq-mltjlazw/annotation/5zpqqx6ci7-mltl85ve",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/6mz561q6gq-mltjlazw/canvas/uhx7q7bwcfq-mltl85ve",
+        "body" : {
+          "id" : "https://yshz2024-eng.github.io/test2/images/bk302/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 707,
+          "width" : 942,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 30,
+              "height" : 23
+            }, {
+              "width" : 59,
+              "height" : 45
+            }, {
+              "width" : 118,
+              "height" : 89
+            }, {
+              "width" : 236,
+              "height" : 177
+            }, {
+              "width" : 471,
+              "height" : 354
+            }, {
+              "width" : 942,
+              "height" : 707
+            } ],
+            "profile" : "level0",
+            "width" : 942,
+            "id" : "https://yshz2024-eng.github.io/test2/images/bk302",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 707
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/6mz561q6gq-mltjlazw/canvas/2hfgaqa7ean-mltl6r9s",
+    "type" : "Canvas",
+    "height" : 661,
+    "width" : 863,
+    "label" : {
+      "en" : [ "bk303" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://yshz2024-eng.github.io/test2/images/bk303/full/432,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 331,
+      "width" : 432
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/6mz561q6gq-mltjlazw/canvas/2hfgaqa7ean-mltl6r9s/annotation-page/v3s48yxx0c-mltl6r9s",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/6mz561q6gq-mltjlazw/annotation/wgy7lw3lyqn-mltl6r9s",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/6mz561q6gq-mltjlazw/canvas/2hfgaqa7ean-mltl6r9s",
+        "body" : {
+          "id" : "https://yshz2024-eng.github.io/test2/images/bk303/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 661,
+          "width" : 863,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 27,
+              "height" : 21
+            }, {
+              "width" : 54,
+              "height" : 42
+            }, {
+              "width" : 108,
+              "height" : 83
+            }, {
+              "width" : 216,
+              "height" : 166
+            }, {
+              "width" : 432,
+              "height" : 331
+            }, {
+              "width" : 863,
+              "height" : 661
+            } ],
+            "profile" : "level0",
+            "width" : 863,
+            "id" : "https://yshz2024-eng.github.io/test2/images/bk303",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 661
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/6mz561q6gq-mltjlazw/canvas/2cvxeb6qk3b-mltl7wm3",
+    "type" : "Canvas",
+    "height" : 330,
+    "width" : 258,
+    "label" : {
+      "en" : [ "csd01" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://yshz2024-eng.github.io/test2/images/csd01/full/258,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 330,
+      "width" : 258
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/6mz561q6gq-mltjlazw/canvas/2cvxeb6qk3b-mltl7wm3/annotation-page/w1bk387xqxp-mltl7wm3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/6mz561q6gq-mltjlazw/annotation/bgxxl14us69-mltl7wm3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/6mz561q6gq-mltjlazw/canvas/2cvxeb6qk3b-mltl7wm3",
+        "body" : {
+          "id" : "https://yshz2024-eng.github.io/test2/images/csd01/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 330,
+          "width" : 258,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 9,
+              "height" : 11
+            }, {
+              "width" : 17,
+              "height" : 21
+            }, {
+              "width" : 33,
+              "height" : 42
+            }, {
+              "width" : 65,
+              "height" : 83
+            }, {
+              "width" : 129,
+              "height" : 165
+            }, {
+              "width" : 258,
+              "height" : 330
+            } ],
+            "profile" : "level0",
+            "width" : 258,
+            "id" : "https://yshz2024-eng.github.io/test2/images/csd01",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 330
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
